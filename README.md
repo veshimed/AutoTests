@@ -10,5 +10,7 @@ Before use:
 
 3. Install Firefox browser from https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=paidsearch&utm_campaign=sem2015Q4
 
-4. Now you can run these tests just as script files or using PyCharm or other IDE
+4. Now you can run these tests just as script files or using PyCharm (I like it) or other IDE
+
+You can find Free PyCharm on https://www.jetbrains.com/pycharm/download/
 
